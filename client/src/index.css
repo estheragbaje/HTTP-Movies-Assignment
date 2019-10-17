@@ -71,6 +71,15 @@ body {
   background-color: lightblue;
 }
 
+.delete-button {
+  position: absolute;
+  top: 135px;
+  right: 25px;
+  border: 1px solid grey;
+  padding: 5px 10px;
+  background-color: lightsalmon;
+}
+
 .save-button:hover {
   background-color: green;
   color: white;
